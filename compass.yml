@@ -3,6 +3,7 @@ id: ari:cloud:compass:e5d90fc6-9e30-42ef-bc54-bbadd0cb994e:component/c2d938c9-5e
 description: Repository created after Config as code option enabled
 configVersion: 1
 typeId: SERVICE
+ownerId: ari:cloud:identity::team/67475e7e-6193-4f1d-8e25-548130692086
 fields:
   tier: 4
 links:
